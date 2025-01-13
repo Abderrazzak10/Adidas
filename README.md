@@ -22,4 +22,8 @@ The CSS file includes media queries to adjust the layout for different screen si
 - **Between 970px and 1090px**: The image width is set to 315px.
 - **Below 970px**: The content and navigation are displayed in a column layout, and the background circle is adjusted.
 
+## How to Use
+
+1. Clone the repository.
+2. Open `index.html` in a web browser to view the landing page.
 
