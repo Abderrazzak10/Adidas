@@ -27,3 +27,10 @@ The CSS file includes media queries to adjust the layout for different screen si
 1. Clone the repository.
 2. Open `index.html` in a web browser to view the landing page.
 
+## Acknowledgements
+
+- **Abdelrahman Gamal**: Special thanks to Abdelrahman Gamal for his helpful videos that guided the development of this landing page.
+
+## License
+
+This project is licensed under the MIT License.
